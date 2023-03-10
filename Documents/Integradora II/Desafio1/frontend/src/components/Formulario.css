@@ -1,0 +1,29 @@
+
+.card-container {
+  display:flex;
+  justify-content: center;
+  position:center;
+  align-items: center;
+  flex-wrap: wrap;
+  text-align: center;
+  gap: .5rem;
+  
+
+}
+
+#cardServ {
+  background-color: #5184a1;
+  width: 350px;
+  height: 390px;
+  margin: 15px;
+  text-align: center;
+  line-height: 15px;
+  font-size: 14px;
+  color: #000000;
+
+}
+
+.mb-3{
+  width: 270px;
+  margin-left: 40px;
+}
